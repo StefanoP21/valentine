@@ -1,0 +1,16 @@
+.valentine-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.yesButton {
+  margin-right: 10px;
+  background-color: #db2777;
+}
+
+.noButton {
+  background-color: #fda4af;
+}
